@@ -24,8 +24,6 @@ hs_err_pid*
 #idea
 /.idea/import jav.util.Scanner
 
-
-
 public class Mondail
 {
 public static void main(Ssring[] args)
